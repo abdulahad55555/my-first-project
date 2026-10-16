@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     cout << "Abdul  Ahad"<< endl;
-    cout << "L1F26BSCS0862";
+    cout << "new to gitub";
          
 
 
